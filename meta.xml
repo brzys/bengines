@@ -1,0 +1,120 @@
+<meta>
+	<file src="sounds/casual1/1.wav" type="client" download="true" />
+    <file src="sounds/casual1/2.wav" type="client" download="true" />
+    <file src="sounds/casual1/3.wav" type="client" download="true" />
+    <file src="sounds/casual2/1.wav" type="client" download="true" />
+    <file src="sounds/casual2/2.wav" type="client" download="true" />
+    <file src="sounds/casual2/3.wav" type="client" download="true" />
+    <file src="sounds/casual3/1.wav" type="client" download="true" />
+    <file src="sounds/casual3/2.wav" type="client" download="true" />
+    <file src="sounds/casual3/3.wav" type="client" download="true" />
+    <file src="sounds/casual4/1.wav" type="client" download="true" />
+    <file src="sounds/casual4/2.wav" type="client" download="true" />
+    <file src="sounds/casual4/3.wav" type="client" download="true" />
+    <file src="sounds/casual5/1.wav" type="client" download="true" />
+    <file src="sounds/casual5/2.wav" type="client" download="true" />
+    <file src="sounds/casual5/3.wav" type="client" download="true" />
+    <file src="sounds/casual6/1.wav" type="client" download="true" />
+    <file src="sounds/casual6/2.wav" type="client" download="true" />
+    <file src="sounds/casual6/3.wav" type="client" download="true" />
+    <file src="sounds/casual7/1.wav" type="client" download="true" />
+    <file src="sounds/casual7/2.wav" type="client" download="true" />
+    <file src="sounds/casual7/3.wav" type="client" download="true" />
+    <file src="sounds/muscle1/1.wav" type="client" download="true" />
+    <file src="sounds/muscle1/2.wav" type="client" download="true" />
+    <file src="sounds/muscle1/3.wav" type="client" download="true" />
+    <file src="sounds/muscle2/1.wav" type="client" download="true" />
+    <file src="sounds/muscle2/2.wav" type="client" download="true" />
+    <file src="sounds/muscle2/3.wav" type="client" download="true" />
+    <file src="sounds/muscle3/1.wav" type="client" download="true" />
+    <file src="sounds/muscle3/2.wav" type="client" download="true" />
+    <file src="sounds/muscle3/3.wav" type="client" download="true" />
+	<file src="sounds/muscle4/1.wav" type="client" download="true" />
+    <file src="sounds/muscle4/2.wav" type="client" download="true" />
+    <file src="sounds/muscle4/3.wav" type="client" download="true" />
+    <file src="sounds/bus1/1.wav" type="client" download="true" />
+    <file src="sounds/bus1/2.wav" type="client" download="true" />
+    <file src="sounds/bus1/3.wav" type="client" download="true" />
+    <file src="sounds/bus2/1.wav" type="client" download="true" />
+    <file src="sounds/bus2/2.wav" type="client" download="true" />
+    <file src="sounds/bus2/3.wav" type="client" download="true" />
+    <file src="sounds/sport1/1.wav" type="client" download="true" />
+    <file src="sounds/sport1/2.wav" type="client" download="true" />
+    <file src="sounds/sport1/3.wav" type="client" download="true" />
+    <file src="sounds/sport2/1.wav" type="client" download="true" />
+    <file src="sounds/sport2/2.wav" type="client" download="true" />
+    <file src="sounds/sport2/3.wav" type="client" download="true" />
+    <file src="sounds/sport3/1.wav" type="client" download="true" />
+    <file src="sounds/sport3/2.wav" type="client" download="true" />
+    <file src="sounds/sport3/3.wav" type="client" download="true" />
+    <file src="sounds/sport4/1.wav" type="client" download="true" />
+    <file src="sounds/sport4/2.wav" type="client" download="true" />
+    <file src="sounds/sport4/3.wav" type="client" download="true" />
+    <file src="sounds/sport5/1.wav" type="client" download="true" />
+    <file src="sounds/sport5/2.wav" type="client" download="true" />
+    <file src="sounds/sport5/3.wav" type="client" download="true" />
+    <file src="sounds/sport6/1.wav" type="client" download="true" />
+    <file src="sounds/sport6/2.wav" type="client" download="true" />
+    <file src="sounds/sport6/3.wav" type="client" download="true" />
+	<file src="sounds/sport7/1.wav" type="client" download="true" />
+    <file src="sounds/sport7/2.wav" type="client" download="true" />
+    <file src="sounds/sport7/3.wav" type="client" download="true" />
+	<file src="sounds/sport8/1.wav" type="client" download="true" />
+    <file src="sounds/sport8/2.wav" type="client" download="true" />
+    <file src="sounds/sport8/3.wav" type="client" download="true" />
+	<file src="sounds/sport9/1.wav" type="client" download="true" />
+    <file src="sounds/sport9/2.wav" type="client" download="true" />
+    <file src="sounds/sport9/3.wav" type="client" download="true" />
+    <file src="sounds/motorbike1/1.wav" type="client" download="true" />
+    <file src="sounds/motorbike1/2.wav" type="client" download="true" />
+    <file src="sounds/motorbike1/3.wav" type="client" download="true" />
+    <file src="sounds/motorbike2/1.wav" type="client" download="true" />
+    <file src="sounds/motorbike2/2.wav" type="client" download="true" />
+    <file src="sounds/motorbike2/3.wav" type="client" download="true" />
+    <file src="sounds/motorbike3/1.wav" type="client" download="true" />
+    <file src="sounds/motorbike3/2.wav" type="client" download="true" />
+    <file src="sounds/motorbike3/3.wav" type="client" download="true" />
+    <file src="sounds/motorbike4/1.wav" type="client" download="true" />
+    <file src="sounds/motorbike4/2.wav" type="client" download="true" />
+    <file src="sounds/motorbike4/3.wav" type="client" download="true" />
+    <file src="sounds/motorbike5/1.wav" type="client" download="true" />
+    <file src="sounds/motorbike5/2.wav" type="client" download="true" />
+    <file src="sounds/motorbike5/3.wav" type="client" download="true" />
+    <file src="sounds/truck1/1.wav" type="client" download="true" />
+    <file src="sounds/truck1/2.wav" type="client" download="true" />
+    <file src="sounds/truck1/3.wav" type="client" download="true" />
+    <file src="sounds/truck2/1.wav" type="client" download="true" />
+    <file src="sounds/truck2/2.wav" type="client" download="true" />
+    <file src="sounds/truck2/3.wav" type="client" download="true" />
+    <file src="sounds/truck3/1.wav" type="client" download="true" />
+    <file src="sounds/truck3/2.wav" type="client" download="true" />
+    <file src="sounds/truck3/3.wav" type="client" download="true" />
+    
+    <file src="sounds/turbo.wav" type="client" download="true" />
+    <file src="sounds/turbo_shift1.wav" type="client" download="true" />
+    <file src="sounds/turbo_shift2.wav" type="client" download="true" />
+    <file src="sounds/locked.mp3" type="client" download="true" />
+	
+	<file src="sounds/als1.wav" />
+	<file src="sounds/als2.wav" />
+	<file src="sounds/als3.wav" />
+	<file src="sounds/als4.wav" />
+	<file src="sounds/als5.wav" />
+	<file src="sounds/als6.wav" />
+	<file src="sounds/als7.wav" />
+	<file src="sounds/als8.wav" />
+	<file src="sounds/als9.wav" />
+	<file src="sounds/als10.wav" />
+	<file src="sounds/als11.wav" />
+	<file src="sounds/als12.wav" />
+	<file src="sounds/als13.wav" />
+	
+	<script src="utils_s.lua" type="server" />
+	
+	<script src="engine_c.lua" type="client" />
+	<script src="engine_s.lua" type="server" />
+	
+	<export function="getVehicleRPM" type="client" />
+	<export function="getVehicleGear" type="client" />
+	<export function="toggleEngines" type="client" />
+</meta>
